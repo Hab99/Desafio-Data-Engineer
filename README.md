@@ -6,5 +6,5 @@
     pacote 2
 
 ### Repositório
-    git clone <url>
+    git clone <https://github.com/Hab99/python.git>
     cd my-folder
