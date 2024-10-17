@@ -1,5 +1,5 @@
 # Projeto desenvolvido em python
- Python 3.0
+ Python 3x
 
 ### Pacotes utilizados
     .Colletions
