@@ -2,9 +2,8 @@
  Python 3.0
 
 ### Pacotes utilizados
-    pacote 1
-    pacote 2
+    .Colletions
+    .Math
 
 ### Repositório
-    git clone <https://github.com/Hab99/python.git>
-    cd my-folder
+    .git clone <https://github.com/Hab99/python.git>
